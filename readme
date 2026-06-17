@@ -1,0 +1,34 @@
+# Student Portfolio Website
+
+A personal portfolio website designed to showcase my skills, projects, certifications, and achievements as a Computer Science student. This website serves as my digital portfolio and helps recruiters, mentors, and peers learn more about my work and interests.
+
+## Features
+
+- Responsive design for desktop and mobile devices
+- Professional homepage with introduction
+- About Me section
+- Skills showcase
+- Projects gallery
+- Certifications and achievements
+- Contact information
+- Modern and user-friendly interface
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Structure
+
+├── index.html
+├── style.css
+├── script.js
+├── images/
+└── README.md
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-link>
